@@ -1,0 +1,20 @@
+{
+  "data": {
+    "musicData": [
+      {
+        "src": "Hope.mp3",
+        "title": "希望",
+        "artist": "Keep",
+        "lrc": "Vue js 2.0入门教程书籍 Vue2基础理论应用",
+        "Id": 1
+      },
+      {
+        "src": "soon.mp3",
+        "title": "希望",
+        "artist": "mayd",
+        "lrc": "Vue js 2.0入门教程书籍 Vue2基础理论应用",
+        "Id": 1
+      }
+    ]
+  }
+}
